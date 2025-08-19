@@ -79,4 +79,8 @@ OUTPUT :
 
 <img width="538" height="239" alt="Screenshot 2025-08-19 112451" src="https://github.com/user-attachments/assets/a21fe622-aea4-4168-a872-9c8375cbfca3" />
 
+RESULT:
+
+The program is executed successfully
+
 
